@@ -13,10 +13,10 @@ local z = {
 	base7 = "#9ca0a4",
 	base8 = "#b1b1b1",
 
-	bg = "#262a33",
+	bg = "#0f1114",
 	bg1 = "#504945",
 	bg_popup = "#3E4556",
-	bg_highlight = "#2E323C",
+	bg_highlight = "#1c1d1f",
 	bg_visual = "#b3deef",
 
 	fg = "#bbc2cf",
